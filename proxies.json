@@ -1,0 +1,19 @@
+{
+  "proxies": [
+    {
+      "ip": "1.1.1.1",
+      "port": 8080,
+      "country": "Brazil"
+    },
+    {
+      "ip": "2.2.2.2",
+      "port": 8080,
+      "country": "Germany"
+    },
+    {
+      "ip": "3.3.3.3",
+      "port": 8080,
+      "country": "France"
+    }
+  ]
+}
